@@ -1,0 +1,26 @@
+td{
+    display: contents;
+    color: white;
+}
+#input{
+    display: flex;
+    margin: 3px;
+    width: 100px;
+    background-color:black ;
+    color: white;
+    zoom: 4;
+}
+button{
+    margin: 2px;
+    background-color: black;
+    color: white;
+}
+body{
+   display: flex;
+  justify-content: center;
+  text-align: center;
+    background-color: black;
+}
+table{
+   zoom: 4;
+}
